@@ -4,7 +4,7 @@ This repository contains categorized Python scripts I've built for automation, c
 
 ## 📁 Folder Overview
 
-- **automation/** – Scripts to automate file and system tasks
-- **cybersecurity/** – Tools for basic security analysis and reconnaissance
+- **Info-Gather/** – Scripts to automate information gathering for audit purposes
+- **Generic-Automation/** – Tools for automating everyday boring simple tasks (like changing name of multiple files)
 - **utilities/** – Handy one-off tools for everyday use
 - **data_tools/** – Scripts for processing and manipulating datasets
