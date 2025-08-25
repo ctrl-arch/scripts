@@ -1,4 +1,4 @@
-# File Name Batch Renamer
+# File Renamer Utility
 
 A simple Python script to **rename multiple files in bulk** using defined string replacements. This is useful for reorganizing datasets, normalizing naming conventions, or swapping terms in file names (e.g., "Apple" ↔ "Orange").
 
